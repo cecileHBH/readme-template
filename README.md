@@ -8,7 +8,7 @@ Affichage des statuts de build de l’intégration continue
 
 ## Sommaire
 
-* [Screenshots](#Capture-décran-du-projet)
+* [Captures d’écrans du projet](#Captures-décrans-du-projet)
 * [Getting Started](#Getting-Started)
 * [Tests](#Tests)
 * [Build](#Build)
@@ -17,9 +17,9 @@ Affichage des statuts de build de l’intégration continue
 * [Contribuer](#Contribuer)
 * [Versioning](#Versioning)
 
-## Capture d’écran du projet
+## Captures d’écrans du projet
 
-Ajouter quelques captures d’écran pour montrer à quoi ressemble le projet. Eventuellement faire une courte vidéo (2 minutes maximum)pour montrer quelques cas d’usages.
+Ajouter quelques captures d’écran pour montrer à quoi ressemble le projet. Eventuellement faire une courte vidéo (2 minutes maximum) pour montrer quelques cas d’usages.
 
 ## Getting Started
 
@@ -31,14 +31,18 @@ Ce qu’il faut installer pour faire fonctionner le projet et comment les instal
 ```
 npm install -g @angular/cli@6.0.8
 ```
+
 ### Installation
 
 Une explication étape par étape pour avoir un environnement de développement qui tourne
 Etape 1. 
+
 ```
 npm install
 ```
+
 etc..
+
 Terminer avec un exemple de cas d’usage pour vérifier que le projet fonctionne bien.
 
 ## Tests

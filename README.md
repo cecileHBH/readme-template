@@ -8,7 +8,7 @@ Affichage des statuts de build de l’intégration continue
 
 ## Sommaire
 
-* [Screenshots](#Capture-decran-du-projet)
+* [Screenshots](#Capture-décran-du-projet)
 * [Getting Started](#Getting-Started)
 * [Tests](#Tests)
 * [Build](#Build)
